@@ -10,7 +10,7 @@ This is a Analog clock which is developed using pure HTML, CSS , Java-Script.
 -------------------------------------------------------------------------------------
 
 Click the link to view the analog clock in your browser : 
-https://subhajit105.github.io/Analog-Clock/
+https://msubhajitind.github.io/Analog-Clock/
 
 -------------------------------------------------------------------------------------
 
